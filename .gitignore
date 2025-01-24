@@ -70,3 +70,4 @@ venv/
 tests/local_testing/log.txt
 
 .codegpt
+dist/*.tgz
